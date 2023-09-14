@@ -1,0 +1,118 @@
+Question Number,Question Source,Question Name,Types of Solutions,Efficient Solution,Solved Link,Explanation Article,Learning/Notes
+Dynamic Programming,,,,,,,
+70,Blind 75,Climbing Stairs,"1. Top Down
+2. Bottom Up
+3. Fibonacci",Fibonacci,https://leetcode.com/problems/climbing-stairs/submissions/,,
+322,Blind 75,Coin Change,"1. Recursive
+2. Top Down
+3. Bottom Up",Top Down,https://leetcode.com/problems/coin-change/submissions/,,
+518,Cracking the Coding Interview,Coin Change 2,"1. Recursive
+2. Top Down
+3. Bottom Up",Top Down,https://leetcode.com/problems/coin-change-ii/description/,,
+300,Blind 75,Longest Increasing Subsequence,"1. Recursive
+2. Top Down
+3. Bottom Up",Bottom Up ,https://leetcode.com/problems/longest-increasing-subsequence/submissions/,,
+1143,Blind 75,Longest Common Subsequence,"1. Recursive
+2. Top Down
+3. Bottom Up",Bottom Up ,https://leetcode.com/problems/longest-common-subsequence/description/,,
+516,,Longest Palindromic Subsequence,"1. Recursive
+2. Top Down
+3. Bottom Up",Top Down,https://leetcode.com/problems/longest-palindromic-subsequence/submissions/,,
+62,"1. Blind 75
+2. Cracking the Coding Interview",Unique Paths/Robot in a Grid,"1. Recursive
+2. Top Down
+3. Bottom Up",Top Down,https://leetcode.com/problems/unique-paths/description/,,
+200,Blind 75,Number of Islands,,"Recursion, dfs",https://leetcode.com/problems/number-of-islands/submissions/,,
+139,Blind 75,Word Break,"1. Recursive
+2. Top Down
+3. Bottom Up",Top Down,https://leetcode.com/problems/word-break/submissions/,,
+55,Blind 75,Jump Game,,Iterative,https://leetcode.com/problems/jump-game/description/,,
+377,Blind 75,Combination Sum 4,,,https://leetcode.com/problems/combination-sum-iv/submissions/,,
+217,Gokking the Coding Interview,Contains Duplicate,,,https://leetcode.com/problems/contains-duplicate/description/,,HashSet
+1,Blind 75,Two Sum,"Hash Map, Hash Set, Iteration",Hash Map,https://leetcode.com/problems/two-sum/description/,,
+1832,Gokking the Coding Interview,Pangram,Iteration,Iteration,https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/,,
+69,Gokking the Coding Interview,Square root,iteration,Iteration,https://leetcode.com/problems/sqrtx/submissions/,,
+345,,Reverse vowels of a string,,,https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/,,
+15,Blind 75,3Sum,,Two pointer approach,https://leetcode.com/problems/3sum/submissions/,,
+125,Blind 75,Valid Palindrome,,Two pointer approach,https://leetcode.com/problems/valid-palindrome/description/,,
+75,Gokking the Coding Interview,Sort Colours,,,https://leetcode.com/problems/sort-colors/submissions/,,
+153,Blind 75,Find minimum in rotated sorted array,,Two pointer approach,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/,,
+33,Blind 75,Search in rotated sorted array,,Two pointer approach,https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/,,
+680,Gokking the Coding Interview,Valid Palindrome 2,,Two pointer approach,https://leetcode.com/problems/valid-palindrome-ii/submissions/,,
+2656,,Maximum sum with excatly k elements,,Two pointer approach,https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/,,
+53,Blind 75,Maximum subarray,,,https://leetcode.com/problems/maximum-subarray/submissions/,,
+112,,Path Sum,,Top Down Recursive,https://leetcode.com/problems/path-sum/submissions/,,
+100,Blind 75,Same Tree,,Top Down Recursive,https://leetcode.com/problems/same-tree/submissions/,,
+104,Blind 75,Maximum depth of binary tree,,Top Down Recursive,https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/,,
+226,Blind 75,Invert Binary Tree,,Top Down Recursive,https://leetcode.com/problems/invert-binary-tree/submissions/,,
+101,,Symmetric Tree,,,https://leetcode.com/problems/symmetric-tree/description/,,
+238,Blind 75,Product of Array except self,,Two Pointer Approach,https://leetcode.com/problems/product-of-array-except-self/description/,,
+121,Blind 75,Best time to buy and sell stock,,Sliding Window,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,,
+3,Blind 75,Longest Substring without repeating characters,,Sliding Window,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,,
+371,Blind 75,Sum of two integers,,Bit manipulation,https://leetcode.com/problems/sum-of-two-integers/submissions/,,
+11,Blind 75,Container with most water,,Two pointer Sliding Window,https://leetcode.com/problems/container-with-most-water/description/,,
+141,Blind 75,Cycle in a Linked List,,Fast and slow pointers,https://leetcode.com/problems/linked-list-cycle/submissions/,,
+876,Gokking the Coding Interview,Middle of the linked list,,Iteration,https://leetcode.com/problems/middle-of-the-linked-list/submissions/,,
+287,Gokking the Coding Interview,Find the duplicate number,,Iteration,https://leetcode.com/problems/find-the-duplicate-number/submissions/,,TODO:: see if you can optimize the program into O(n) complexity.
+202,Gokking the Coding Interview,Happy Number,,Iteration,https://leetcode.com/problems/happy-number/description/,,TODO:: Do it with the fast and slow pointers
+234,Gokking the Coding Interview,Palindrome Linked List,,Two pointers approach,https://leetcode.com/problems/palindrome-linked-list/description/,,TODO :: do it with fast and slow pointers
+2483,Leetcode Daily Challenge,Minimum Penalty for a shop,,,https://leetcode.com/problems/minimum-penalty-for-a-shop/,,
+268,Blind 75,Missing Number,,,https://leetcode.com/problems/missing-number/description/,,
+191,Blind 75,Number of 1 bits,,Bit manipulation,https://leetcode.com/problems/number-of-1-bits/submissions/,,
+338,Blind 75,Counting bits,,Bit manipulation,https://leetcode.com/problems/counting-bits/submissions/,,
+190,Blind 75,Reverse bits,,Bit manipulation,https://leetcode.com/problems/reverse-bits/submissions/,,
+206,Blind 75,Reverse linked list,,Iteration,https://leetcode.com/problems/reverse-linked-list/description/,,TODO:: Do a recursive method! 
+45,,Jump Game 2,,Iteration,https://leetcode.com/problems/jump-game-ii/description/,,
+48,Blind 75,Rotate Image,,Iteration,https://leetcode.com/problems/rotate-image/description/,,
+1004,Amazon Interview Question,Max Consecutive ones 3,,Two Pointer,https://leetcode.com/problems/max-consecutive-ones-iii/description/,,
+9,Leetcode Easy,Palindrome Number,,calling a function,https://leetcode.com/problems/palindrome-number/description/?envType=daily-question&envId=2023-09-01,,
+14,Leetcode Easy,Longest Common Prefix,,String,https://leetcode.com/problems/longest-common-prefix/submissions/?envType=daily-question&envId=2023-09-01,,
+21,Leetcode Easy,Merge Two sorted lists,,Two Pointer approach,https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=daily-question&envId=2023-09-01,,
+26,leetcode Easy,Remove duplicates from sorted array,,another in-place method besides using a set,https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=daily-question&envId=2023-09-01,,
+58,Leetcode Easy,Length of last word,,,https://leetcode.com/problems/length-of-last-word/description/,,
+219,Leetcode Easy,Contains Duplicate 2,,Hash Table,https://leetcode.com/problems/contains-duplicate-ii/submissions/,,
+come back,,,,,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/,,
+20,Leetcode Easy,Valid Parenthesis,,Stack,https://leetcode.com/problems/valid-parentheses/description/,,
+27,Leetcode Easy,Remove Element,,Iteration,https://leetcode.com/problems/remove-element/submissions/,,
+169,Leetcode Easy,Majority Element,,Hash Map,https://leetcode.com/problems/majority-element/,,
+2843,Leetcode Weekly Contest,Symmetric Integers,,Functional Call,https://leetcode.com/contest/weekly-contest-361/problems/count-symmetric-integers/,,
+35,Leetcode Easy,Search Insert Position,,Two Pointer Approach,https://leetcode.com/problems/search-insert-position/,,
+come back,,,,,https://leetcode.com/problems/can-place-flowers/solutions/3320141/super-easy-solution-in-java/,,
+136,Leetcode Easy,Single Number,,Hash Map,https://leetcode.com/problems/single-number/submissions/,,TODO:: do it with constant space
+205,Leetcode Easy,Isomorphic Strings,,Hash Map,https://leetcode.com/problems/isomorphic-strings/description/,,Checked the frequency but missed the ordering oops!
+509,Leetcode Easy,Fibonacci Number ,,Iteration,https://leetcode.com/problems/fibonacci-number/description/,,
+come back,Leetcode Easy,Search a 2D Matrix,,"Iteration, two pointer approach",https://leetcode.com/problems/search-a-2d-matrix/description/,,
+88,Leetcode Easy,Merge sorted array,,Two pointer,https://leetcode.com/problems/merge-sorted-array/submissions/,,come back because repeatedly getting TLE due to trying to remove the 0s. Dont need to do that. Simply merge.
+242,Leetcode Easy,Valid Anagrams,,Hash Map,https://leetcode.com/problems/valid-anagram/submissions/,,
+283,Leetcode Easy,Move Zeros,,In-place,https://leetcode.com/problems/move-zeroes/submissions/,,
+1768,Leetcode Easy,Merge Strings Alternatively,,,https://leetcode.com/problems/merge-strings-alternately/description/,,
+63,Leetcode Medium,Unique Paths 2,,Dynamic Programming,https://leetcode.com/problems/unique-paths-ii/submissions/,,
+81,Leetcode Medium,Search in rotated sorted array 2,,Two pointer approach,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/,,
+16,Leetcode Medium,3Sum Closest,,"Two pointer approach, Hash map",https://leetcode.com/problems/3sum-closest/description/,,
+189,Leetcode Medium,Rotate array,,just simply calling function 3 times,https://leetcode.com/problems/rotate-array/description/,,
+1732,Leetcode Easy,Find the highest altitute,,,https://leetcode.com/problems/find-the-highest-altitude/submissions/?envType=daily-question&envId=2023-09-06,,
+344,Leetcode Easy,Reverse String,,,https://leetcode.com/problems/reverse-string/description/,,
+72,Leetcode Ace 75,Edit Distance,,LCS,https://leetcode.com/problems/edit-distance/submissions/?envType=study-plan-v2&envId=leetcode-75,,
+92,Leetcode daily,Reverse linked list 2,,inplace reverse,https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=daily-question&envId=2023-09-07,,
+392,Leetcode DP Easy,Is Subsequence,,LCS ,https://leetcode.com/problems/is-subsequence/description/,,
+1646,Leetcode  DP Easy,Get maximum in generated array,,Little bit like fibonacci,https://leetcode.com/problems/get-maximum-in-generated-array/description/,,
+1137,Leetcode DP Easy,Nth Tribonacci number,,Dp caching ,https://leetcode.com/problems/n-th-tribonacci-number/description/,,
+come back,,Divisor game,,,https://leetcode.com/problems/divisor-game/description/,,
+746,Leetcode DP Easy,Min Cost Climbing Stairs,,Top Down Approach,https://leetcode.com/problems/min-cost-climbing-stairs/description/,,
+122,Leetcode DP greedy alt,Best time too buy and sell stock 2,,greedy approach,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/,,"TODO: Think! Next time, go for a greedy approach."
+118,Leetcode Daily,Pascal's Triangle,,"n^2 method, iteration",https://leetcode.com/problems/pascals-triangle/description/,,
+64,Leetcode Dp,Minimum Path sum,,Top Down Approach,https://leetcode.com/problems/minimum-path-sum/description/,,
+198,Leetcode Dp,House Robber,,Top Down Approach,https://leetcode.com/problems/house-robber/submissions/,,
+come back ,,House Robber 2,,,https://leetcode.com/problems/house-robber-ii/description/,,TODO:: why not dp approach? both this two approaches use sc and tc as O(n)
+83,Leetcode Easy,Remove Duplicates from sorted list,,,https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/,,
+222,Leetcode Easy,Count Complete Tree Nodes,,Recursive Approach,https://leetcode.com/problems/count-complete-tree-nodes/description/,,
+404,Leetcode Easy,Sum of left leaves,,Recursive Approach,https://leetcode.com/problems/sum-of-left-leaves/submissions/,,
+209,Leetcode Medium,Minimum size subarray sum,,Sliding window,https://leetcode.com/problems/minimum-size-subarray-sum/description/,,
+come back,,,,,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/?envType=daily-question&envId=2023-09-10,,
+237,Google Question,Delete Node in a linked list,,LL,https://leetcode.com/problems/delete-node-in-a-linked-list/description/,,
+2215,Leetcode Easy,Find the difference of two arrays,,Lists,https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=daily-question&envId=2023-09-11,,
+279,DP,Perfect Squares,,Memoization,https://leetcode.com/problems/perfect-squares/description/?envType=study-plan-v2&envId=dynamic-programming,,
+24,DP series but did in loop,Swap nodes in pairs,,,https://leetcode.com/problems/swap-nodes-in-pairs/submissions/,,
+135,Leetcode daily,Candy (common question in google),,"two time pass, greedy approach",https://leetcode.com/problems/candy/solutions/?envType=daily-question&envId=2023-09-13,,
+143,Blind 75,Reorder List,,Stack,https://leetcode.com/problems/reorder-list/description/,,
+19,Blind 75,Remove nth node from end of linked list,,Linked List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/,,
